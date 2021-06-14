@@ -4,7 +4,7 @@ StationSwap is a laptop rental app that allows you to add new laptops and new la
 
 [Live App](https://stationswap-app.herokuapp.com/)
 
-![StationSwap](frontend/StationSwap.png)
+![StationSwap](StationSwap.png)
 
 ### Getting Started
 
@@ -49,12 +49,6 @@ start up a server:
 
 ```
 $ rails s
-```
-
-get started with the frontend:
-
-```
-$ yarn start
 ```
 
 
